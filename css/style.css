@@ -77,14 +77,6 @@ body {
     margin: 0;
 }
 
-.baguetteBox-button {
-    background-color: transparent !important;
-}
-
-.btn-outline-warning:hover{
-  background-color: #333!important;
-}
-
 footer {
 background-color:#333;
 color: #fff;
